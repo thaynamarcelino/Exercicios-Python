@@ -2,6 +2,6 @@
 
 import pygame
 pygame.init()
-pygame.mixer.music.load('# aqui coloca o nome do arquivo mp3') 
+pygame.mixer.music.load(# aqui coloca o nome do arquivo mp3) 
 pygame.mixer.music.play()
 pygame.event.wait()
